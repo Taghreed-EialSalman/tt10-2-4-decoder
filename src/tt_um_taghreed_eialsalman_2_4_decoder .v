@@ -1,3 +1,4 @@
+`default_nettype none
 module tt_um_taghreed_eialsalman_2_4_decoder (
     input  wire [7:0] ui_in,    // Dedicated inputs
     output wire [7:0] uo_out,   // Dedicated outputs
